@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Aruniga Gnanasegaran 👋
 
-<!--
-**aru-segar/aru-segar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/aru-segar?style=social)
 
-Here are some ideas to get you started:
+I'm a passionate and dedicated first-year undergraduate student pursuing a Bachelor of Computer Science at the University of Westminster, affiliated with the Informatics Institute of Technology, Sri Lanka. My academic journey is rooted in a profound interest in technology and its potential to solve real-world problems. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- **Languages:** Java, Python
+- **Web Development:** HTML, CSS, JavaScript
+- **Tools:** Git, Canva
+
+## 🌱 Currently Learning
+- Advanced JavaScript
+
+## 📫 How to reach me
+- **Email:** [arunigagnanasegaran@gmail.com](mailto:arunigagnanasegaran@gmail.com)
+- **LinkedIn:** [linkedin.com/in/aruniga-gnanasegaran](https://linkedin.com/in/aruniga-gnanasegaran)
