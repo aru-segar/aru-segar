@@ -2,40 +2,61 @@
 
 **Full-Stack Developer | AI & Data Enthusiast | Tech Trend Follower**
 
-I'm a Computer Science undergraduate at the University of Westminster, passionate about building innovative software solutions. I love combining my skills in frontend, backend, and machine learning to create applications that address real-world challenges.
+I'm a Computer Science undergraduate at the University of Westminster, passionate about building innovative software solutions. I blend frontend, backend, and data science expertise to create applications that solve real-world problems.
 
 ---
 
 ## 🚀 Skills & Technologies
 
 ### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+### Frontend Development
+**Frameworks & Libraries:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
+**Design Tools:**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### Backend Development
+**Frameworks & Tools:**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge)
+
+### Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Data Science & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+### Web Technologies
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6F61?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-4B9CD3?style=for-the-badge)
 
-### DevOps & Cloud (Trending)
+### Machine Learning & Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyCaret](https://img.shields.io/badge/PyCaret-499898?style=for-the-badge&logo=python&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+
+### 💡 Trending Technologies
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### Tools & Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -43,39 +64,31 @@ I'm a Computer Science undergraduate at the University of Westminster, passionat
 
 - **PledgeIt - Volunteer Management Platform**  
   *Tech Stack:* React, FastAPI, MongoDB  
-  A dynamic platform for managing volunteer events with real-time updates.
+  A comprehensive platform for managing volunteer events with real-time updates.
 
 - **Breast Cancer Survival Prediction**  
   *Tech Stack:* Python, Pandas, Scikit-Learn  
-  A machine learning model that predicts patient outcomes with high accuracy.
+  Developed a machine learning model to predict patient outcomes with high accuracy.
 
 - **Real-Time Event Ticketing System**  
   *Tech Stack:* React, Spring Boot, MySQL  
-  A system leveraging WebSockets for live ticket updates and seamless user experience.
+  A dynamic ticket booking system leveraging WebSockets for instant updates.
 
 - **Air Ticket Booking System**  
   *Tech Stack:* Java  
-  A command-line application built using OOP principles for efficient ticket management.
+  A command-line based application built using object-oriented programming principles.
 
 - **AI Image Generation Platform**  
   *Tech Stack:* React, Node.js  
-  A web app that transforms text prompts into images using cutting-edge AI.
+  A web app that converts text prompts into images using AI, integrated with Cloudinary for image storage.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Aruniga's GitHub stats](https://github-readme-stats.vercel.app/api?username=aru-segar&show_icons=true&theme=radical)  
+![Aruniga's GitHub stats](https://github-readme-stats.vercel.app/api?username=aru-segar&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aru-segar&layout=compact&theme=radical)
-
----
-
-## 🌟 Latest Trends & Interests
-
-- **Cloud Computing & DevOps:** Embracing Docker, Kubernetes, and AWS to streamline deployments.
-- **AI & Machine Learning:** Constantly exploring new techniques in deep learning and data analytics.
-- **Full-Stack Development:** Enhancing both user experiences and robust backend functionalities.
-- **Continuous Learning:** Staying updated with modern frameworks and trending tools to innovate faster.
 
 ---
 
@@ -87,10 +100,10 @@ I'm a Computer Science undergraduate at the University of Westminster, passionat
 
 ---
 
-## 🌱 About Me
+## 🌟 About Me
 
-I'm driven by curiosity and a passion for technology. Whether it's developing a full-stack solution or diving into machine learning projects, I love tackling challenges head-on. When I'm not coding, I'm exploring the latest tech trends or experimenting with new tools to expand my horizons.
+I'm always exploring new technologies and trends in the tech world. Whether it's automating workflows with DevOps tools or diving into the latest machine learning libraries, I thrive on continuous learning and innovation. When I'm not coding, I enjoy experimenting with new tech gadgets, reading about industry trends, and collaborating on open-source projects.
 
 ---
 
-Thanks for visiting my profile! Feel free to check out my projects, and let's connect if you'd like to collaborate.
+Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate.
